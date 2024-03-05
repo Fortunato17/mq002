@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*Estilo geral*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    height: 100vh;
+    background-color: #233eff;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+h1{
+    padding: 10px;
+    color: white;
+    text-shadow: 2px 2px 0px rgb(22, 22, 129);
+}
